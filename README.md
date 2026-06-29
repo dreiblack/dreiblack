@@ -1,4 +1,4 @@
-<img width="415" height="737" alt="image" src="https://github.com/user-attachments/assets/707a0e82-1c4b-40f4-b55d-4b9c5cfb284f" /><div align="center">
+
 
 # dreiwhite
 
