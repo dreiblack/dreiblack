@@ -4,7 +4,12 @@
 
 ### Minecraft Plugin Developer
 
-> *I'm a Minecraft developer focused on creating plugin*
+> *I'm a Minecraft developer focused on creating plugins.*
+
+```
+🇵🇭 Philippines
+🎂 21 years old
+```
 
 </div>
 
