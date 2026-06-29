@@ -2,9 +2,9 @@
 
 # dreiwhite
 
-### Minecraft Plugin Developer
+### Plugin Developer
 
-> *I'm a Minecraft developer focused on creating plugins.*
+> *I'm a developer focused on creating plugins.*
 
 ```
 🇵🇭 Philippines
