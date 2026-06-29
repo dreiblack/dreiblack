@@ -8,7 +8,7 @@
 
 ```
 🇵🇭 Philippines
-🎂 21 years old
+21 years old
 ```
 
 </div>
