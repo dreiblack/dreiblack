@@ -2,9 +2,7 @@
 
 # dreiwhite
 
-### Plugin Developer
-
-> *I'm a developer focused on creating plugins.*
+### Boo
 
 ```
 🇵🇭 Philippines
