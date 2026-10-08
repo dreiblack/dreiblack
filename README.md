@@ -5,7 +5,7 @@
 ### Boo
 
 ```
-🇵🇭 Philippines
+Philippines
 21 years old
 ```
 
